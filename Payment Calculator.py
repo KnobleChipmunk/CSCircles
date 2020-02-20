@@ -1,1 +1,1 @@
-print(min(balance , max((.021 * balance) , 10)))
+print(min(balance , max(.021 * balance) , 10))
